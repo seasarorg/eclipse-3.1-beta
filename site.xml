@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/org.seasar.kijimuna_1.0.5.jar" id="org.seasar.kijimuna" version="1.0.5">
-      <category name="Kijimuna stable"/>
+   <feature url="features/org.seasar.kijimuna_1.0.6.jar" id="org.seasar.kijimuna" version="1.0.6">
+      <category name="Kijimuna beta"/>
    </feature>
-   <category-def name="Kijimuna stable" label="Kijimuna stable versions"/>
+   <category-def name="Kijimuna beta" label="Kijimuna beta versions"/>
 </site>
