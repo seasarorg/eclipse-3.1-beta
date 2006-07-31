@@ -27,7 +27,11 @@
    <feature url="features/org.seasar.s2daoplugin_0.1.1.jar" id="org.seasar.s2daoplugin" version="0.1.1">
       <category name="S2DaoPlugin"/>
    </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.0.1.jar" id="org.seasar.dolteng.eclipse" version="0.0.1">
+      <category name="Dolteng"/>
+   </feature>
    <category-def name="Kijimuna beta" label="Kijimuna beta"/>
    <category-def name="Diigu" label="Diigu"/>
    <category-def name="S2DaoPlugin" label="S2DaoPlugin"/>
+   <category-def name="Dolteng" label="Dolteng"/>
 </site>
