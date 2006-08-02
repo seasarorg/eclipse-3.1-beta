@@ -30,6 +30,9 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.0.1.jar" id="org.seasar.dolteng.eclipse" version="0.0.1">
       <category name="Dolteng"/>
    </feature>
+   <feature url="features/org.seasar.dolteng.eclipse_0.0.2.jar" id="org.seasar.dolteng.eclipse" version="0.0.2">
+      <category name="Dolteng"/>
+   </feature>
    <category-def name="Kijimuna beta" label="Kijimuna beta"/>
    <category-def name="Diigu" label="Diigu"/>
    <category-def name="S2DaoPlugin" label="S2DaoPlugin"/>
