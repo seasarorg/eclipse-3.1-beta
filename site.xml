@@ -108,6 +108,9 @@
    <feature url="features/org.seasar.diigu.eclipse_0.0.14.jar" id="org.seasar.diigu.eclipse" version="0.0.14">
       <category name="Diigu"/>
    </feature>
+   <feature url="features/org.seasar.diigu.eclipse_0.0.15.jar" id="org.seasar.diigu.eclipse" version="0.0.15">
+      <category name="Diigu"/>
+   </feature>
    <category-def name="Kijimuna beta" label="Kijimuna beta"/>
    <category-def name="Diigu" label="Diigu"/>
    <category-def name="S2DaoPlugin" label="S2DaoPlugin"/>
