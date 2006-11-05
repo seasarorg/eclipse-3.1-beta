@@ -114,8 +114,12 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.10.0.jar" id="org.seasar.dolteng.eclipse" version="0.10.0">
       <category name="Dolteng"/>
    </feature>
+   <feature url="features/org.seasar.dblauncher_0.0.1.jar" id="org.seasar.dblauncher" version="0.0.1">
+      <category name="DbLauncher"/>
+   </feature>
    <category-def name="Kijimuna beta" label="Kijimuna beta"/>
    <category-def name="Diigu" label="Diigu"/>
    <category-def name="S2DaoPlugin" label="S2DaoPlugin"/>
    <category-def name="Dolteng" label="Dolteng"/>
+   <category-def name="DbLauncher" label="DbLauncher"/>
 </site>
