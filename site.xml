@@ -123,9 +123,17 @@
    <feature url="features/org.seasar.dolteng.eclipse_0.12.0.jar" id="org.seasar.dolteng.eclipse" version="0.12.0">
       <category name="Dolteng"/>
    </feature>
+   <feature url="features/org.seasar.kvasir.plust.feature_0.0.3.jar" id="org.seasar.kvasir.plust.feature" version="0.0.3" os="linux,macosx,win32" ws="carbon,gtk,motif,win32" nl="en,ja_JP,ja" arch="x86,x86_64">
+      <category name="Kvasir"/>
+   </feature>
    <category-def name="Kijimuna beta" label="Kijimuna beta"/>
    <category-def name="Diigu" label="Diigu"/>
    <category-def name="S2DaoPlugin" label="S2DaoPlugin"/>
    <category-def name="Dolteng" label="Dolteng"/>
    <category-def name="DbLauncher" label="DbLauncher"/>
+   <category-def name="Kvasir" label="Kvasir/Sora">
+      <description>
+         The Eclipse plugins and some other tools for Kvasir/Sora development.
+      </description>
+   </category-def>
 </site>
